@@ -1,0 +1,24 @@
+{
+ "format_version": 2,
+ "header": {
+ "name": "§bCustom Texture pack§r",
+ "description": "§rMade by §a@DKjusthere",
+ "version": [2, 0, 1],
+ "min_engine_version": [1, 21, 0],
+ "uuid":
+ "dd082ec6-17d1-4976-a93a-3ca275bd8a9f"
+ },
+ "modules": [
+ { 
+ "type": "resources",
+ "version": [2, 0, 1],
+ "uuid":
+ "569d89a1-68b0-45ac-bc49-9a6a299dbeb6"
+ }
+ ],
+ "metadata": {
+ "authors": [
+ "@DKjusthere"
+ ]
+ }
+}
